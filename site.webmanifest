@@ -1,0 +1,14 @@
+{
+    "name": "Pe\u010divOk\u00fdnko",
+    "short_name": "Pe\u010divOk\u00fdnko",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
